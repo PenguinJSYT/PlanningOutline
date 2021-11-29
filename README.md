@@ -1,7 +1,7 @@
 # PlanningOutline
 ## But What Exactly Is "X"
 1. Javascript Variables in less than 5 Minutes!
-2. Javascript Types in less than 5 Minutes!
+2. Javascript Data Types in less than 5 Minutes!
 3. Javascript Randoms in less than 5 Minutes!
 4. Javascript If and Else in less than 5 Minutes!
 5. Javascript Functions in less than 5 Minutes!
